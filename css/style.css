@@ -1,7 +1,7 @@
 .bg-grey {
     background-color:rgb(238, 238, 238);;
 }
-.table {
+table {
     border-collapse: separate;
     text-indent: initial;
     white-space: normal;
